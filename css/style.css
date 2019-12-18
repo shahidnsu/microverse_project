@@ -1,0 +1,22 @@
+#image {
+    max-width : 100%;
+    display: block;
+}
+body {
+    text-align: center;
+
+}
+
+#title {
+    text-align: center;
+}
+img 
+{
+    text-align: center;
+    margin: 0 auto;
+}
+#img-caption {
+    text-align: center;
+    margin-top: 20px;
+    color:skyblue;
+}

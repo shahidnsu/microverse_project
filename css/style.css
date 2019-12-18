@@ -20,3 +20,19 @@ img
     margin-top: 20px;
     color:skyblue;
 }
+#tribute-info > p 
+{
+    margin-top: 2%;
+} 
+.container > h4 
+{
+    color:skyblue;
+}
+.cap
+{
+    font-size: 30px;
+    margin:4% ;
+}
+h5 {
+    text-align: center;
+}
